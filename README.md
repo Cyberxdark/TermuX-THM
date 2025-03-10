@@ -1,9 +1,9 @@
-<h1 align="center">TermuX-Custom</h1>
+<h1 align="center">TermuX-THM</h1>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/stars/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/Cod3r-Ak/TermuX-Custom?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/license/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=blue"><br>
+  <img src="https://img.shields.io/github/stars/Cod3r-Ak/TermuX-THM?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/Cod3r-Ak/TermuX-THM?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/license/Cod3r-Ak/TermuX-THM?style=for-the-badge&color=blue"><br>
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-Akshat-purple?style=flat-square">
@@ -14,7 +14,7 @@
 ## Description
 TermuX Custom is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login screen, login sound effects, and the ability to change your shell name. The interactive terminal provides a dynamic environment for your TermuX sessions.
 
-**Repository Views** ![Views](https://profile-counter.glitch.me/TermuX-Custom/count.svg) 
+**Repository Views** ![Views](https://profile-counter.glitch.me/TermuX-THM/count.svg) 
 > **Maintained?**: Yes, This repository is Maintained and You will get Updates Regularly!
 
 # About Termux
@@ -66,12 +66,12 @@ To get started, simply follow the provided commands to update and upgrade your T
     
 [-] Clone the TermuX-Custom6 repository in your Termux:
     ```
-    git clone https://github.com/Cod3r-Ak/TermuX-Custom
+    git clone https://github.com/Cyberxdark/TermuX-THM.git
     ```
 
 [-] Navigate to the cloned repository directory:
     ```
-    cd TermuX-Custom
+    cd TermuX-THM
     ```
 
 [-] Add execute permissions to all files in the directory:
@@ -86,11 +86,11 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 ## All Commands in Single Line
 ```
-apt update && apt upgrade && pkg install git && git clone https://github.com/Cod3r-Ak/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh 
+apt update && apt upgrade && pkg install git && git clone https://github.com/Cyberxdark/TermuX-THM.git && cd TermuX-Cum && chmod +x * && bash setup.sh 
 ```
 ## Copyright Notice
 
-All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by Akshat [Cod3r-Ak], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
+All content, including but not limited to code, documentation, and assets, within the TermuX THM repository is protected under copyright law. This repository, authored by _CYBER_BOY_1 [Cyberxdark], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
 
 You are granted the right to use, modify, and distribute the contents of this repository for educational and non-commercial purposes. However, you must adhere to the following conditions:
 ```
